@@ -1,0 +1,146 @@
+[
+  {
+    "message": "stupid"
+  },
+  {
+    "message": "stupid felow"
+  },
+  {
+    "message": "ugly"
+  },
+  {
+    "message": "stupid fellow"
+  },
+  {
+    "message": "stupid fellow"
+  },
+  {
+    "message": "stupid"
+  },
+  {
+    "message": "stupid"
+  },
+  {
+    "message": "you are ugly"
+  },
+  {
+    "message": "you are loser"
+  },
+  {
+    "message": "stupid fellow"
+  },
+  {
+    "message": "stupid"
+  },
+  {
+    "message": "stupid"
+  },
+  {
+    "message": "stupid"
+  },
+  {
+    "username": "asdf",
+    "message": "stupid",
+    "confidence": 0.7263267689398647,
+    "bullying_terms": [
+      {
+        "term": "stupid",
+        "score": 1.4595
+      }
+    ]
+  },
+  {
+    "username": "asdf",
+    "message": "stupid",
+    "confidence": 0.7263267689398647,
+    "bullying_terms": [
+      {
+        "term": "stupid",
+        "score": 1.4595
+      }
+    ]
+  },
+  {
+    "username": "asdf",
+    "message": "stupid",
+    "confidence": 0.7263267689398647,
+    "bullying_terms": [
+      {
+        "term": "stupid",
+        "score": 1.4595
+      }
+    ]
+  },
+  {
+    "username": "qwer",
+    "message": "i fuck you",
+    "confidence": 0.8328363808142115,
+    "bullying_terms": [
+      {
+        "term": "fuck",
+        "score": 2.7044,
+        "source": "model"
+      }
+    ]
+  },
+  {
+    "username": "zxcv",
+    "message": "i will sue you",
+    "confidence": 0.6297306850130159,
+    "bullying_terms": [
+      {
+        "term": "sue",
+        "score": 1.6494,
+        "source": "model"
+      }
+    ]
+  },
+  {
+    "username": "zxcv",
+    "message": "stupid",
+    "confidence": 0.9991972320412105,
+    "bullying_terms": [
+      {
+        "term": "stupid",
+        "score": 8.2449,
+        "source": "model"
+      }
+    ]
+  },
+  {
+    "username": "zxcv",
+    "message": "kill you",
+    "confidence": 0.8418797357600725,
+    "bullying_terms": [
+      {
+        "term": "kill",
+        "score": 2.7906,
+        "source": "model"
+      }
+    ]
+  },
+  {
+    "username": "qwsa",
+    "message": "fuck you",
+    "confidence": 0.8010924486775429,
+    "bullying_terms": [
+      {
+        "term": "fuck",
+        "score": 2.0522,
+        "source": "model"
+      }
+    ]
+  },
+  {
+    "username": "qwsa",
+    "message": "stupid",
+    "confidence": 0.9819060199549563,
+    "bullying_terms": [
+      {
+        "term": "stupid",
+        "score": 4.6529,
+        "source": "model"
+      }
+    ]
+  }
+]
